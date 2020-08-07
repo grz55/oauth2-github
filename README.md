@@ -7,6 +7,7 @@ Pull into IDE.
 # Description: 
 
 In this app you can access authorized API endpoint through OAuth2 login. Authentication provided by GitHub.
+/public - public endpoint, /secret - secured endpoint
 
 # Technologies: 
 
